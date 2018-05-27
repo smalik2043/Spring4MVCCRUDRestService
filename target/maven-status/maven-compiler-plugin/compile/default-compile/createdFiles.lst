@@ -1,0 +1,6 @@
+com\sulaiman\sprigmvc\model\Employee.class
+com\sulaiman\springmvc\configuration\SpringConfiguration.class
+com\sulaiman\springmvc\serviceimpl\EmployeeServiceImpl.class
+com\sulaiman\springmvc\controller\EmployeeController.class
+com\sulaiman\springmvc\service\EmployeeService.class
+com\sulaiman\springmvc\configuration\SpringInitializer.class
