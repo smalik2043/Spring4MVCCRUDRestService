@@ -9,5 +9,4 @@ Include the spring and other dependencies in the pom.xml file. Do maven update t
 
 To Deploy
 Configuration of tomcat. I am using verion 8.5
-Maven clean and install to build the war file
-Run Tomcat
+Maven clean and install to build the war file and run Tomcat
